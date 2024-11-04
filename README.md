@@ -12,6 +12,14 @@
 
 ---
 
+## Video
+
+<div align="center>
+  <a href="https://www.youtube.com/watch?v=WSZxJMQUfbk" target="_blank">
+  <img src="https://img.youtube.com/vi/WSZxJMQUfbk/0.jpg" style="width: 40%;">
+</a>
+</div>
+
 ## Project Setup
 
 To get started with the project, follow these steps:
