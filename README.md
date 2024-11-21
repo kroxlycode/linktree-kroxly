@@ -12,15 +12,6 @@
 
 ---
 
-## Video
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=WSZxJMQUfbk" target="_blank">
-    <img src="https://img.youtube.com/vi/WSZxJMQUfbk/0.jpg" style="width: 40%;">
-  </a>
-</div>
-
-
 ## Project Setup
 
 To get started with the project, follow these steps:
@@ -47,7 +38,7 @@ npm install
 
 ### 1. Update GitHub Username
 
-In the file src/Projects.js, replace the GitHub username on line 75 with your own GitHub username to display your projects.
+In the file ``src/Projects.js``, replace the GitHub username on line 75 with your own GitHub username to display your projects.
 
 ```bash
 const username = 'kroxlycode';
